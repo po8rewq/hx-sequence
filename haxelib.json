@@ -1,0 +1,14 @@
+{
+  "name": "flox",
+  "url": "https://github.com/po8rewq/flox",
+  "licence": "MIT",
+  "tags": "neko",
+  "description": "",
+  "version": "1.0.0",
+  "classPath": "src/",
+  "releasenote": "Initial release, everything is working correctly.",
+  "contributors": ["RevoluGame"],
+  "dependencies": {
+    "mcli": ""
+  }
+}
