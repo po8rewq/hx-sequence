@@ -8,7 +8,7 @@
 ## Install
 
 ```batch
-haxelib install hx-sequence
+haxelib git hx-sequence https://github.com/po8rewq/hx-sequence.git
 haxelib run hx-sequence [config.json]
 ```
 
@@ -70,10 +70,6 @@ If you want to add conditional arguments, you can do :
 ```
 
 So If you run `hx-sequence` with the `-D prod` argument, it will use the `cond.prod.flags` while compiling.
-
- > For now, there is only to compiling status :
- >  * prod
- >  * default (no `-D` flag)
 
 ### Tasks
 
